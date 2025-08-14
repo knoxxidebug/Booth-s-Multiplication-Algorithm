@@ -1,4 +1,5 @@
 Booth Multiplier (Verilog)
+
 📌 Overview
 
 This project implements an 8-bit signed Booth multiplier in Verilog, capable of multiplying two signed integers and producing a 16-bit signed product.
